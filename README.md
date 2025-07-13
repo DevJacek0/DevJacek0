@@ -70,11 +70,7 @@ Handles sessions, user auth, live power draw, billing
 Let's talk backend, architecture, and automation ideas:
 
 - ✉️ Email: kuba.wilczek06@gmail.com
-- 💻 Portfolio: coming soon
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="terminal gif">
-</div>
 
 ---
 
